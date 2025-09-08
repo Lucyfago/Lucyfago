@@ -1,1 +1,1 @@
-[![ProfileBanner](https://github.com/Lucyfago/Lucyfago/blob/main/IMG/Fondo.png)](https://dev-folio-rust-ten.vercel.app/)
+[![ProfileBanner](https://github.com/Lucyfago/Lucyfago/blob/main/IMG/Banner.png)](https://dev-folio-rust-ten.vercel.app/)
