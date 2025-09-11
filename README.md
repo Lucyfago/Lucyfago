@@ -7,25 +7,36 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: flex-start; margin: 20px 0;">
   <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV4N2FrZnM1dmxoMTF3ZGdodzY5aXRjODhhc24yaW90Y3hhZ2I4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp" style="width: auto; max-width: 150px; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" alt="Profile GIF"/>
-  <div align="left" style="flex: 1; min-width: 300px; background: linear-gradient(135deg, #f6f8fa 0%, #e9ecef 100%); border: 1px solid #d0d7de; border-radius: 8px; padding: 20px; position: relative; overflow: hidden;">
-    <div style="position: absolute; top: 0; left: 0; width: 4px; height: 100%; background: linear-gradient(180deg, #28a745 0%, #22863a 100%"></div>
-    <div style="font-family: 'SF Mono', 'Monaco', 'Inconsolata', 'Roboto Mono', 'Consolas', monospace; font-size: clamp(12px, 2.5vw, 14px); line-height: 1.6; color: #24292f; margin: 0;">
-      <span style="color: #b618a6ff; font-weight: bold;">+</span> 
+  <div align="left"">
+    <div style="font-size: clamp(12px, 2.5vw, 14px); line-height: 1.6; margin: 0;">
       <strong>Analista y Desarrollador de Software</strong> con más de <strong>5 años de experiencia</strong> en:
       <br><br>
-      <span>✓</span> Levantamiento de requerimientos<br>
-      <span>✓</span> Modelado de datos<br>
-      <span>✓</span> Gestión del ciclo de vida de productos<br>
-      <span>✓</span> Metodologías ágiles<br>
-      <span>✓</span> UX/UI Design<br>
-      <span>✓</span> Integraciones Cloud<br>
-      <span>✓</span> Proyectos digitales
-      <br><br>
-      <em>Capacidad probada para optimizar procesos y colaborar en equipos multidisciplinarios.</em>
+      <table>
+        <tr>
+          <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;  ">Levantamiento de requerimientos</td>
+        </tr>
+        <tr>
+          <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;  ">Modelado de datos</td>
+        </tr>
+        <tr>
+          <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;  ">Gestión del ciclo de vida de productos</td>
+        </tr>
+        <tr>
+          <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;  ">Metodologías ágiles</td>
+        </tr>
+        <tr>
+          <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;  ">UX/UI Design</td>
+        </tr>
+        <tr>
+          <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;  ">Integraciones Cloud</td>
+        </tr>
+        <tr>
+          <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;  ">Proyectos digitales</td>
+        </tr>
+      </table>
+      Capacidad probada para optimizar procesos y colaborar en equipos multidisciplinarios.
     </div>
-    
   </div>
-  
 </div>
 
 
