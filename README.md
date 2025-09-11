@@ -13,22 +13,21 @@
       <span style="color: #b618a6ff; font-weight: bold;">+</span> 
       <strong>Analista y Desarrollador de Software</strong> con más de <strong>5 años de experiencia</strong> en:
       <br><br>
-      <span style="color: #28a745;">✓</span> Levantamiento de requerimientos<br>
-      <span style="color: #28a745;">✓</span> Modelado de datos<br>
-      <span style="color: #28a745;">✓</span> Gestión del ciclo de vida de productos<br>
-      <span style="color: #28a745;">✓</span> Metodologías ágiles<br>
-      <span style="color: #28a745;">✓</span> UX/UI Design<br>
-      <span style="color: #28a745;">✓</span> Integraciones Cloud<br>
-      <span style="color: #28a745;">✓</span> Proyectos digitales
+      <span>✓</span> Levantamiento de requerimientos<br>
+      <span>✓</span> Modelado de datos<br>
+      <span>✓</span> Gestión del ciclo de vida de productos<br>
+      <span>✓</span> Metodologías ágiles<br>
+      <span>✓</span> UX/UI Design<br>
+      <span>✓</span> Integraciones Cloud<br>
+      <span>✓</span> Proyectos digitales
       <br><br>
-      <em style="color: #656d76;">Capacidad probada para optimizar procesos y colaborar en equipos multidisciplinarios.</em>
+      <em>Capacidad probada para optimizar procesos y colaborar en equipos multidisciplinarios.</em>
     </div>
     
   </div>
   
 </div>
 
-<img align="right" alt="Coding" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif">
 
 <div align="center">
   <br>
@@ -63,3 +62,4 @@
         <td><img height="40" src="https://skillicons.dev/icons?i=linux,arch,ubuntu,debian"/></td>
     </tr>
 </table>
+<img align="right" alt="Coding" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif">
