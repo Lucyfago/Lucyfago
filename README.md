@@ -6,7 +6,7 @@
 <h2 align="left" font-weight="bold">Sobre mí</h2> 
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: flex-start; margin: 20px 0;">
-  <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV4N2FrZnM1dmxoMTF3ZGdodzY5aXRjODhhc24yaW90Y3hhZ2I4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp" style="width: auto; max-width: 150px; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" alt="Profile GIF"/>
+  <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV4N2FrZnM1dmxoMTF3ZGdodzY5aXRjODhhc24yaW90Y3hhZ2I4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp" style="width: 40%; max-width: 150px; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" alt="Profile GIF"/>
   <div align="left"">
     <div style="font-size: clamp(12px, 2.5vw, 14px); line-height: 1.6; margin: 0;">
       <strong>Analista y Desarrollador de Software</strong> con más de <strong>5 años de experiencia</strong> en:
